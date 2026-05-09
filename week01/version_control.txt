@@ -1,0 +1,30 @@
+W01 Assignment: Explain Version Control
+Student: Oscar Huanca
+
+What is the version control and why is it important?
+
+Meaning
+The version control is used to tracks the history of changes as people and teams collaborate on projects together.
+
+Benefit
+For this course we use git that is a system version control. 
+One of the benefits is that we can do collaborative work where several people can develop software at the same time with a local copy of the code on their computer.
+Another benefit is that Git is free to use without paying for licenses.
+Another benefit is that by using git, a copy could be made for each of the students, and in this way all the changes that have been made can be tracked in the change history.
+Another benefit is having a history of code changes, which is very helpful in case a significant, erroneous change is made or if all the project information is accidentally deleted.
+For this term we are going to use Github but git can use with other website.
+
+Example of version control
+To be a professional software developer is to work collaboratively with others, each working on a different branch simultaneously, and periodically pushing changes to a central server to verify that my code and everyone else's code function correctly.
+Perhaps a colleague made a mistake in the code; the history prior to the error could be reviewed to prevent it and correct the problems.
+
+Show a command used in Version Control
+
+git status
+This command allows you to see untracked changes, including changes made to a file or created files.
+
+git add
+This command is used to prepare changes made to the project before committing them to the project history.
+
+git commit
+After using the `git add` command to prepare, you should save the changes to the history with `git commit`. You can save it with a summary of the changes you've made.
