@@ -28,8 +28,6 @@ class Program
             listNumber = int.Parse(Console.ReadLine());
         }
 
-        Console.WriteLine(numbers.Count);
-
         int sum = 0;
         int largestNumber = 0;
         int smallestPositive = numbers[0];
