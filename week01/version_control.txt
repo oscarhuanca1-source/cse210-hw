@@ -4,7 +4,7 @@ Student: Oscar Huanca
 What is the version control and why is it important?
 
 Meaning
-The version control is used to tracks the history of changes as people and teams collaborate on projects together.
+The version control is very useful because it is used to track the history of changes as one or more team members collaborate on projects.
 
 Benefit
 For this course we use git that is a system version control. 
