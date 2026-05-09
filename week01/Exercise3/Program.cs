@@ -7,7 +7,7 @@ class Program
         Console.WriteLine("Hello World! This is the Exercise3 Project.");
 
         Random randomGenerator = new Random();
-        int number = randomGenerator.Next(1, 20);
+        int number = randomGenerator.Next(1, 21);
         
         // Console.WriteLine(number);
         // I use this to find out the generated number
